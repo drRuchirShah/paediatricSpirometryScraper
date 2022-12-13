@@ -36,7 +36,11 @@ In progress
 
 
 </pre>
-README file in progress and will be updated with description of work
+### README file in progress and will be updated with description of work
 
-Released under GNU GENERAL PUBLIC LICENSE:
+### Released under GNU GENERAL PUBLIC LICENSE:
 https://www.gnu.org/licenses/gpl-3.0.txt
+
+### Disclaimer
+
+Although every effort has been made to verify correct operation of this software, I cannot accept any liability arising from its use. The software is provided "as is", without any express or implied warranty, and no implication of fitness for a particular use.
