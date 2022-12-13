@@ -37,3 +37,6 @@ In progress
 
 </pre>
 README file in progress and will be updated with description of work
+
+Released under GNU GENERAL PUBLIC LICENSE:
+https://www.gnu.org/licenses/gpl-3.0.txt
