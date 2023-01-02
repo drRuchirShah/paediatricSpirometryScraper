@@ -30,7 +30,13 @@ Script logic as follows:
 6. This value is extracted and inputted into data frame.
 
 ## Results
-In progress
+1724 PDF's to be analysed
+Manual extraction = 100 secs per PDF
+Script extraction = 20 secs per PDF (approximately 8 hours to write script)
+= Approximately 30 clinician hours saved
+
+The script in this use case correctly extracted 90.4% of data required automatically.
+
 
 <pre>
 
